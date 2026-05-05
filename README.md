@@ -1,15 +1,155 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://tempstoresergei.io)
-<h1 align="center">Hi 👋, I'm Sergey</h1>
-<h3 align="center">A FullStack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img width="1170" height="2532" alt="t_me-Err12344" src="https://github.com/user-attachments/assets/933c6804-9a8b-4ead-9f77-c0e5ff75cc1c" /># Sergey Zyablikov
 
+**Full-Stack Developer** focused on TypeScript, Vue/Nuxt, Node.js/NestJS, PostgreSQL, Docker and cloud-ready backend systems.
 
-- 🔭 I’m currently working on **Vue Web App**
+I build web applications, backend services, internal business tools and cross-platform desktop/mobile applications.  
+Currently improving my skills in **AWS, Docker, Kubernetes and production deployment**.
 
-- 🌱 I’m currently learning **Flutter**
+---
 
-- 💬 Ask me about **Web , Microservices**
+## About me
 
+- Full-Stack Developer with commercial experience in web and business software development  
+- Main stack: **TypeScript, Vue/Nuxt, Node.js/NestJS, PostgreSQL, Docker**  
+- Experience with REST API, WebSocket, fiscal/payment integrations and admin panels  
+- Interested in backend architecture, cloud infrastructure and reliable production systems  
+- Currently preparing for **AWS Certified Developer – Associate**  
+- English level: **B1 → improving to B2**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
+
+## Tech Stack
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=for-the-badge&logo=css3)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-1F2937?style=for-the-badge&logo=nodedotjs)
+![NestJS](https://img.shields.io/badge/NestJS-1F2937?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql)
+![REST API](https://img.shields.io/badge/REST_API-1F2937?style=for-the-badge)
+![WebSocket](https://img.shields.io/badge/WebSocket-1F2937?style=for-the-badge)
+
+### Mobile / Desktop
+
+![Flutter](https://img.shields.io/badge/Flutter-1F2937?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-1F2937?style=for-the-badge&logo=dart)
+
+### DevOps / Tools
+
+![Docker](https://img.shields.io/badge/Docker-1F2937?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-1F2937?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma)
+
+---
+
+## Featured Projects
+
+### Kiosk Cashier System
+
+Business application for cashier/kiosk scenarios with payment processing, WebSocket communication and fiscal device integration.
+
+**Key features:**
+
+- Payment processing flow  
+- WebSocket event handling  
+- Fiscal device integration  
+- Transaction reporting  
+- Error handling screens  
+- Admin and cashier interface logic  
+
+**Stack:**  
+Flutter · Dart · REST API · WebSocket · Clean Architecture
+
+---
+
+### MediaInfo Desktop App
+
+Cross-platform desktop application for analyzing media files and displaying technical metadata.
+
+**Key features:**
+
+- Drag & Drop file handling  
+- Media file metadata display  
+- Native-like desktop UI  
+- Desktop platform support  
+
+**Stack:**  
+Flutter · Dart · macOS · Linux · Windows
+
+---
+
+### Full-Stack Web Application
+
+Web application with Vue/Nuxt frontend and Node.js/NestJS backend.
+
+**Key features:**
+
+- Frontend architecture  
+- Backend API  
+- PostgreSQL database  
+- Docker-based environment  
+- Authentication and business logic  
+
+**Stack:**  
+Vue · Nuxt · TypeScript · Node.js · NestJS · PostgreSQL · Docker
+
+---
+
+## What I am working on now
+
+- Improving backend architecture skills  
+- Building production-ready applications with Docker  
+- Learning AWS for backend deployment  
+- Preparing for AWS Certified Developer – Associate  
+- Improving English for international opportunities  
+
+---
+
+## Current Learning Roadmap
+
+TypeScript → Node.js/NestJS → PostgreSQL → Docker → AWS → Kubernetes
+
+---
+
+## Certification Goals
+
+- AWS Certified Developer – Associate  
+- AWS Certified Solutions Architect – Associate  
+- IELTS General Training (target: B2+)  
+
+---
+
+## GitHub Focus
+
+I use GitHub to demonstrate:
+
+- production-ready project structure  
+- clean and readable code  
+- API design and backend logic  
+- database usage  
+- Docker-based environments  
+- documentation and deployment instructions  
+
+---
+
+## Contact
+
+- Email: sergaiwork@gmail.com  
+- Telegram: <img width="1170" height="2532" alt="t_me-Err12344" src="https://github.com/user-attachments/assets/76aeb466-8293-4566-871c-daa7b22a8203" />
+
+---
+
+## Languages
+
+- Russian — Native  
+- English — B1 (actively improving to B2)
