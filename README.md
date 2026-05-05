@@ -1,4 +1,4 @@
-<img width="1170" height="2532" alt="t_me-Err12344" src="https://github.com/user-attachments/assets/933c6804-9a8b-4ead-9f77-c0e5ff75cc1c" /> Sergey Zyablikov
+Sergey Zyablikov
 
 **Full-Stack Developer** focused on TypeScript, Vue/Nuxt, Node.js/NestJS, PostgreSQL, Docker and cloud-ready backend systems.
 
